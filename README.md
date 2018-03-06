@@ -1,0 +1,1 @@
+# NXQR_Generator
